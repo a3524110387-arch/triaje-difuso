@@ -1,9 +1,9 @@
 # Sistema de Triaje Médico en Urgencias con Lógica Difusa
 
 **Entrega 1 – Prototipo funcional y repositorio** · Fecha de entrega: 6 de octubre de 2026
-**Integrantes:** [completar nombres del equipo] · **Repositorio:** [completar URL de GitHub/GitLab/carpeta compartida]
+**Integrantes:** Christopher Palacios Lindo, Jeovani Sanchez, Sanchez, Miguel Yosafat Camarillo Villanueva, Evelyn Monserrat López Carrera. **Repositorio:** https://github.com/a3524110387-arch/triaje-difuso
 
-> ⚠️ Prototipo académico con datos simulados. No sustituye el criterio médico ni debe usarse con pacientes reales.
+> Prototipo académico con datos simulados. No sustituye el criterio médico ni debe usarse con pacientes reales.
 
 ## 1. Problemática a resolver
 Las computadoras tradicionales deciden con límites binarios: con 38.0 °C el paciente pasa a urgencias y con 37.9 °C va a la sala de espera general. En un contexto médico, una diferencia de décimas no justifica un trato opuesto. Se necesita un sistema que evalúe los signos vitales de forma **gradual** y que explique su decisión.
